@@ -1,0 +1,22 @@
+{
+  "name": "topicosdecomputacao-proj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atv1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoPerri/TopicosdeComputacao-Proj1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiagoPerri/TopicosdeComputacao-Proj1/issues"
+  },
+  "homepage": "https://github.com/TiagoPerri/TopicosdeComputacao-Proj1#readme",
+  "dependencies": {
+    "jest": "^27.2.4"
+  }
+}

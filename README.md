@@ -1,1 +1,1 @@
-# T-picosdeComputa-o---Proj1
+# Repositório criado para acompanhar as atividades da disciplina de Tópicos de Computação, do curso de Análise e Desenvolvimento de Sistemas da Universidade Tecnológica Federal do Paraná (UTFPR-CP);
